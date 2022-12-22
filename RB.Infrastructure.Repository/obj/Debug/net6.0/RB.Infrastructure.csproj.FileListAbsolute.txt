@@ -1,0 +1,38 @@
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.deps.json
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.runtimeconfig.json
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.dll
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Application.dll
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Domain.dll
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Application.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Domain.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.AssemblyReference.cache
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.AssemblyInfoInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.AssemblyInfo.cs
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.CoreCompileInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.CopyComplete
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.dll
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\refint\RB.Infrastructure.dll
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.genruntimeconfig.cache
+D:\3.New Projects\RideBuddyApplication\RB.Infrastructure.Repository\obj\Debug\net6.0\ref\RB.Infrastructure.dll
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.deps.json
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.runtimeconfig.json
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.dll
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Infrastructure.pdb
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Application.dll
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Domain.dll
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Application.pdb
+D:\net-clean\RB.Infrastructure.Repository\bin\Debug\net6.0\RB.Core.Domain.pdb
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.AssemblyReference.cache
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.AssemblyInfoInputs.cache
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.AssemblyInfo.cs
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.CoreCompileInputs.cache
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.csproj.CopyComplete
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.dll
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\refint\RB.Infrastructure.dll
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.pdb
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\RB.Infrastructure.genruntimeconfig.cache
+D:\net-clean\RB.Infrastructure.Repository\obj\Debug\net6.0\ref\RB.Infrastructure.dll
